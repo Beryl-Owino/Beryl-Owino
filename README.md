@@ -1,7 +1,7 @@
 ### Hello Am Beryl Owino👋
 
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Beryl-Owino&show_icons=true&theme=radical"/>
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryl-Owino&layout=compact"/>
+<!-- <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Beryl-Owino&show_icons=true&theme=radical"/> -->
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryl-Owino&layout=compact"/>
 <img align ="left" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img align ="left" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
 <img align ="left" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/>
