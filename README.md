@@ -16,10 +16,12 @@ I’m passionate about uncovering insights from data and building solutions that
 
 ### 📂 Projects
 - [📊 Campaign Data Analytics (Confidential)](#)
+- [🚧 Road Accident Analysis](https://github.com/Beryl-Owino/road-accident-excel)
 - [🧬 Gene Expression for Breast Cancer Analysis](#)
-- [💰 Small Business Sales Tracker](#)
 - [🚲 Bike Sharing Visualization](#)
-- [🚧 Road Accident Analysis](#)
+-  [📊 Movie Data Analysis](#)
+- [💰 Small Business Sales Tracker](#)
+
 
 ---
 
