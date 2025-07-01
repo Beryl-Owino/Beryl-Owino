@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Beryl Owino
 
-🎓 Data Analyst | 📊 Bioinformatics Enthusiast | 🧬 Omics Explorer
+🎓 Data Analyst | 🧬 Bioinformatics & Omics | 📊 Real-World Data Insights
 
 I’m passionate about uncovering insights from data and building solutions that solve real-world problems. I use Python, SQL, Excel, and visualization tools like Seaborn, Matplotlib, and Power BI. Currently exploring bioinformatics and omic data analysis.
 
