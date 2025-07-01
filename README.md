@@ -19,7 +19,7 @@ I’m passionate about uncovering insights from data and building solutions that
 - [🚧 Road Accident Analysis](https://github.com/Beryl-Owino/road-accident-excel)
 - [🧬 Gene Expression for Breast Cancer Analysis](#)
 - [🚲 Bike Sharing Visualization](https://github.com/Beryl-Owino/Bike-sharing-visualisation)
--  [📊 Movie Data Analysis](#)
+-  [📊 Movie Data Analysis](https://github.com/Beryl-Owino/Movies-Data-Analysis)
 - [💰 Small Business Sales Tracker](#)
 
 
