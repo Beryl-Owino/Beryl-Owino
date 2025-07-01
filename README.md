@@ -1,4 +1,30 @@
-### Hello Am Beryl Owino👋
+# 👋 Hi, I'm Beryl Owino
+
+🎓 Data Analyst | 📊 Bioinformatics Enthusiast | 🧬 Omics Explorer
+
+I’m passionate about uncovering insights from data and building solutions that solve real-world problems. I use Python, SQL, Excel, and visualization tools like Seaborn, Matplotlib, and Power BI. Currently exploring bioinformatics and omic data analysis.
+
+---
+
+### 🛠️ Tools & Skills
+- Python (Pandas, Numpy, Matplotlib, Seaborn)
+- SQL | Excel | Git & GitHub
+- Data Cleaning, Visualization, EDA
+- Bioinformatics (Omics Data – Stanford Short Course)
+
+---
+
+### 📂 Projects
+- [📊 Kenya HIV Data Analysis](#)  
+- [🧬 Omics Transcriptomics Project](#)  
+- [📈 Small Business Sales Tracker](#)
+
+---
+
+### 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- Email: your.email@example.com
+
 
 <!-- <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Beryl-Owino&show_icons=true&theme=radical"/> -->
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beryl-Owino&layout=compact"/>
