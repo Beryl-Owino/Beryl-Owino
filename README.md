@@ -24,8 +24,8 @@ I’m passionate about uncovering insights from data and building solutions that
 ---
 
 ### 📫 Connect With Me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- Email: berylowino1@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/beryl-owino/)
+- berylowino1@gmail.com
 
 
 ---
@@ -59,4 +59,4 @@ I’m passionate about uncovering insights from data and building solutions that
 - 📊 Strong in Campaign Data, Omics, and Business Insights  
 - 📬 Open to data analyst roles & collaboration
 
-- [LinkedIn]([https://linkedin.com/in/YOUR-ACTUAL-LINK](https://www.linkedin.com/in/beryl-owino/))
+
