@@ -16,7 +16,7 @@ I’m passionate about uncovering insights from data and building solutions that
 
 ### 📂 Projects
 
-- [🛒 Shop system - Mpesa data Analysis(Python/Flask)]((https://github.com/Beryl-Owino/shop_system))
+- [🛒 Shop system - Mpesa data Analysis(Python/Flask)](https://github.com/Beryl-Owino/shop_system))
 - [🚧 Road Accident Analysis(Excel)](https://github.com/Beryl-Owino/road-accident-excel)
 - [🚧 Road Accident Analysis(Power BI)](https://github.com/Beryl-Owino/road-accident-excel)
 - [🚲 Bike Sharing Visualization](https://github.com/Beryl-Owino/Bike-sharing-visualisation)
